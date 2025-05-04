@@ -1,8 +1,11 @@
 
+
+![devCard1746352258016](https://github.com/user-attachments/assets/c01c6d2b-3c02-4f79-a3a3-32f37d54d23b)
+
 ---
 
 
-**开发者名片制作工具**
+## 开发者名片制作工具
 
 这是一个简单的开发者名片制作工具。
 
@@ -18,7 +21,7 @@
 ---
 
 
-**Developer Business Card Tool**
+## Developer Business Card Tool
 
 This is a simple tool for creating a developer's business card.
 
@@ -31,9 +34,9 @@ This is a simple tool for creating a developer's business card.
 
 The icons used in this project are from the [LanKeep](https://www.lankeep.com/product/tech-icons/) collection of 420+ development-related icons. The icons are open-source and free, available in color, monochrome, and line versions as SVG vector graphics, suitable for development-related projects.
 
+---
 
-
-# Vue 3 + Vite
+## Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
