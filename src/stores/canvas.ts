@@ -162,8 +162,11 @@ export const useCanvasStore = defineStore("canvas", {
           }
         }
 
-        this.drawIcon(imageUrls, ctx, canvas);
-
+        if(imageUrls.length > 0){
+          this.drawIcon(imageUrls, ctx, canvas);
+        }else{
+          this.saveCardImage(canvas);
+        }
         // end
       }
     },
